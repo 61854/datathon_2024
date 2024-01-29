@@ -1,6 +1,6 @@
 # datathon_2024 NUS 188
 How to run the file:
-1) Upload the `catB_train.parquet` and the test dataset, `catB_test.parquet` into the `data` folder. 
+1) Upload the training dataset, `catB_train.parquet`, and the test dataset, `catB_test.parquet` into the `data` folder. 
     - Note that this folder is hidden and you must create it on your own local computer.
 <br>
 
